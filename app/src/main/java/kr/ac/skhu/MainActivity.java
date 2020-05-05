@@ -1,4 +1,4 @@
-package kr.ac.skhu;
+package net.skhu;
 
 import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
